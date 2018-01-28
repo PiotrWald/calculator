@@ -81,4 +81,5 @@ html {
 	grid-template-columns: 1fr 1fr 1fr 1fr;
 	margin: auto;
 	grid-gap: 1rem;
+	color: black;
 }
